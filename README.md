@@ -26,8 +26,6 @@ The dataset used in this project contains the following fields:
 - **Thal**: Thalassemia test result.
 - **Num**: Diagnosis of heart disease (target variable).
 
-The dataset can be found [here](dataset.csv).
-
 ## Objective
 
 The main objective of this project is to identify the best machine learning model for classifying heart disease by experimenting with various algorithms and hyperparameter tuning. The best model is chosen based on cross-validation accuracy and test accuracy.
