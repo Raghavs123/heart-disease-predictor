@@ -1,0 +1,1 @@
+This project explores various machine learning algorithms and their hyperparameter tuning to classify heart disease. The goal is to find the best-performing model based on accuracy metrics by evaluating models like Logistic Regression, KNN, Naive Bayes, SVM, Decision Tree, Random Forest, AdaBoost, Gradient Boosting, and XGBoost.
